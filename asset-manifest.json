@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bd6dd2d.chunk.css",
-    "main.js": "/static/js/main.374d1942.chunk.js",
-    "main.js.map": "/static/js/main.374d1942.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5945e41c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5945e41c.js.map",
-    "static/css/2.fb17aa6d.chunk.css": "/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.b1b44328.chunk.js": "/static/js/2.b1b44328.chunk.js",
-    "static/js/2.b1b44328.chunk.js.map": "/static/js/2.b1b44328.chunk.js.map",
-    "static/js/3.3895de19.chunk.js": "/static/js/3.3895de19.chunk.js",
-    "static/js/3.3895de19.chunk.js.map": "/static/js/3.3895de19.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.fb17aa6d.chunk.css.map": "/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.9bd6dd2d.chunk.css.map": "/static/css/main.9bd6dd2d.chunk.css.map",
-    "static/js/2.b1b44328.chunk.js.LICENSE.txt": "/static/js/2.b1b44328.chunk.js.LICENSE.txt",
-    "static/media/wehelpyou-logo.1bf829d3.png": "/static/media/wehelpyou-logo.1bf829d3.png"
+    "main.css": "/why/static/css/main.9bd6dd2d.chunk.css",
+    "main.js": "/why/static/js/main.c7b90cb0.chunk.js",
+    "main.js.map": "/why/static/js/main.c7b90cb0.chunk.js.map",
+    "runtime-main.js": "/why/static/js/runtime-main.557c72eb.js",
+    "runtime-main.js.map": "/why/static/js/runtime-main.557c72eb.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/why/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.b1b44328.chunk.js": "/why/static/js/2.b1b44328.chunk.js",
+    "static/js/2.b1b44328.chunk.js.map": "/why/static/js/2.b1b44328.chunk.js.map",
+    "static/js/3.3895de19.chunk.js": "/why/static/js/3.3895de19.chunk.js",
+    "static/js/3.3895de19.chunk.js.map": "/why/static/js/3.3895de19.chunk.js.map",
+    "index.html": "/why/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/why/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.9bd6dd2d.chunk.css.map": "/why/static/css/main.9bd6dd2d.chunk.css.map",
+    "static/js/2.b1b44328.chunk.js.LICENSE.txt": "/why/static/js/2.b1b44328.chunk.js.LICENSE.txt",
+    "static/media/wehelpyou-logo.1bf829d3.png": "/why/static/media/wehelpyou-logo.1bf829d3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5945e41c.js",
+    "static/js/runtime-main.557c72eb.js",
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.b1b44328.chunk.js",
     "static/css/main.9bd6dd2d.chunk.css",
-    "static/js/main.374d1942.chunk.js"
+    "static/js/main.c7b90cb0.chunk.js"
   ]
 }
