@@ -16,7 +16,7 @@ export default class AppNavbar extends Component {
 
   render() {
     return (
-      <Navbar variant="dark" expand="lg" fixed="top" bg="dark">
+      <Navbar variant="dark" expand="lg" fixed="top" className="main-navbar">
         <Container>
           <Navbar.Brand href="#home">
             Wehelpyou

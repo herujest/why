@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
-
 import logo from "../../../assets/icons/wehelpyou-logo.png";
+
 
 export default class Intro extends Component {
   render() {

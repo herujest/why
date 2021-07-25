@@ -5,8 +5,10 @@ import Home from '../Home/home';
 export default class GettingStarted extends Component {
   render() {
     return (
-      <Layout>
-        <Home/>
+       <Layout>
+        <div className="content">
+          <Home/>
+        </div>
       </Layout>
     );
   }

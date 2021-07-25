@@ -1,4 +1,6 @@
 @import "./../styles/components/navbar/navbar.css";
+@import "./../styles/components/app/home.css";
+@import "./../styles/components/app/index.css";
 
 body {
   margin: 0;
