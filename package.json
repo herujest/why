@@ -1,7 +1,7 @@
 {
   "name": "mob-doc",
   "version": "0.1.0",
-  "homepage": "https://slrwinter.whypages.github.io",
+  "homepage": "https://slrwinter.github.io/slrwinter.github.io-why/",
   "private": true,
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^2.0.3",
@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
