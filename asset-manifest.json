@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/why/static/css/main.9bd6dd2d.chunk.css",
-    "main.js": "/why/static/js/main.c7b90cb0.chunk.js",
-    "main.js.map": "/why/static/js/main.c7b90cb0.chunk.js.map",
-    "runtime-main.js": "/why/static/js/runtime-main.557c72eb.js",
-    "runtime-main.js.map": "/why/static/js/runtime-main.557c72eb.js.map",
-    "static/css/2.fb17aa6d.chunk.css": "/why/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.b1b44328.chunk.js": "/why/static/js/2.b1b44328.chunk.js",
-    "static/js/2.b1b44328.chunk.js.map": "/why/static/js/2.b1b44328.chunk.js.map",
-    "static/js/3.3895de19.chunk.js": "/why/static/js/3.3895de19.chunk.js",
-    "static/js/3.3895de19.chunk.js.map": "/why/static/js/3.3895de19.chunk.js.map",
-    "index.html": "/why/index.html",
-    "static/css/2.fb17aa6d.chunk.css.map": "/why/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.9bd6dd2d.chunk.css.map": "/why/static/css/main.9bd6dd2d.chunk.css.map",
-    "static/js/2.b1b44328.chunk.js.LICENSE.txt": "/why/static/js/2.b1b44328.chunk.js.LICENSE.txt",
-    "static/media/wehelpyou-logo.1bf829d3.png": "/why/static/media/wehelpyou-logo.1bf829d3.png"
+    "main.css": "/slrwinter.github.io-why/static/css/main.9bd6dd2d.chunk.css",
+    "main.js": "/slrwinter.github.io-why/static/js/main.6e221387.chunk.js",
+    "main.js.map": "/slrwinter.github.io-why/static/js/main.6e221387.chunk.js.map",
+    "runtime-main.js": "/slrwinter.github.io-why/static/js/runtime-main.5b031b61.js",
+    "runtime-main.js.map": "/slrwinter.github.io-why/static/js/runtime-main.5b031b61.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/slrwinter.github.io-why/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.b1b44328.chunk.js": "/slrwinter.github.io-why/static/js/2.b1b44328.chunk.js",
+    "static/js/2.b1b44328.chunk.js.map": "/slrwinter.github.io-why/static/js/2.b1b44328.chunk.js.map",
+    "static/js/3.3895de19.chunk.js": "/slrwinter.github.io-why/static/js/3.3895de19.chunk.js",
+    "static/js/3.3895de19.chunk.js.map": "/slrwinter.github.io-why/static/js/3.3895de19.chunk.js.map",
+    "index.html": "/slrwinter.github.io-why/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/slrwinter.github.io-why/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.9bd6dd2d.chunk.css.map": "/slrwinter.github.io-why/static/css/main.9bd6dd2d.chunk.css.map",
+    "static/js/2.b1b44328.chunk.js.LICENSE.txt": "/slrwinter.github.io-why/static/js/2.b1b44328.chunk.js.LICENSE.txt",
+    "static/media/wehelpyou-logo.1bf829d3.png": "/slrwinter.github.io-why/static/media/wehelpyou-logo.1bf829d3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.557c72eb.js",
+    "static/js/runtime-main.5b031b61.js",
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.b1b44328.chunk.js",
     "static/css/main.9bd6dd2d.chunk.css",
-    "static/js/main.c7b90cb0.chunk.js"
+    "static/js/main.6e221387.chunk.js"
   ]
 }
