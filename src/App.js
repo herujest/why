@@ -1,23 +1,16 @@
-import logo from "./assets/icons/wehelpyou-logo.png";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
+import GettingStarted from "./components/pages/GettingStarted/gettingStarted";
+import Intro from "./components/pages/Intro/intro";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h3>Wehelpyou</h3>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>This is unofficial mobile documentation</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Click here to skip
-        </a>
-      </header>
-    </div>
+    <Router basename={process.env.PUBLIC_URL}>
+      <div id="router-wrapper">
+        <Route exact path="/" component={Intro} />
+        <Route path="/getting-started" component={GettingStarted} />
+      </div>
+    </Router>
   );
 }
 
