@@ -14,14 +14,6 @@ export default class Intro extends Component {
           This is unofficial mobile documentation for developer getting started
         </p>
         <Link to="/getting-started"> Click here to continue </Link>
-        {/* <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Click here to skip
-        </a> */}
       </header>
     </div>
     );
