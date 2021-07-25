@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/slrwinter.github.io-why/static/css/main.fabdd5f4.chunk.css",
-    "main.js": "/slrwinter.github.io-why/static/js/main.3a8fa194.chunk.js",
-    "main.js.map": "/slrwinter.github.io-why/static/js/main.3a8fa194.chunk.js.map",
-    "runtime-main.js": "/slrwinter.github.io-why/static/js/runtime-main.2ecc7bc2.js",
-    "runtime-main.js.map": "/slrwinter.github.io-why/static/js/runtime-main.2ecc7bc2.js.map",
-    "static/css/2.fb17aa6d.chunk.css": "/slrwinter.github.io-why/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.a2cf47eb.chunk.js": "/slrwinter.github.io-why/static/js/2.a2cf47eb.chunk.js",
-    "static/js/2.a2cf47eb.chunk.js.map": "/slrwinter.github.io-why/static/js/2.a2cf47eb.chunk.js.map",
-    "static/js/3.27170ea4.chunk.js": "/slrwinter.github.io-why/static/js/3.27170ea4.chunk.js",
-    "static/js/3.27170ea4.chunk.js.map": "/slrwinter.github.io-why/static/js/3.27170ea4.chunk.js.map",
-    "index.html": "/slrwinter.github.io-why/index.html",
-    "static/css/2.fb17aa6d.chunk.css.map": "/slrwinter.github.io-why/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.fabdd5f4.chunk.css.map": "/slrwinter.github.io-why/static/css/main.fabdd5f4.chunk.css.map",
-    "static/js/2.a2cf47eb.chunk.js.LICENSE.txt": "/slrwinter.github.io-why/static/js/2.a2cf47eb.chunk.js.LICENSE.txt",
-    "static/media/wehelpyou-logo.1bf829d3.png": "/slrwinter.github.io-why/static/media/wehelpyou-logo.1bf829d3.png"
+    "main.css": "/why/static/css/main.fabdd5f4.chunk.css",
+    "main.js": "/why/static/js/main.1213d8c6.chunk.js",
+    "main.js.map": "/why/static/js/main.1213d8c6.chunk.js.map",
+    "runtime-main.js": "/why/static/js/runtime-main.b9958606.js",
+    "runtime-main.js.map": "/why/static/js/runtime-main.b9958606.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/why/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.a2cf47eb.chunk.js": "/why/static/js/2.a2cf47eb.chunk.js",
+    "static/js/2.a2cf47eb.chunk.js.map": "/why/static/js/2.a2cf47eb.chunk.js.map",
+    "static/js/3.27170ea4.chunk.js": "/why/static/js/3.27170ea4.chunk.js",
+    "static/js/3.27170ea4.chunk.js.map": "/why/static/js/3.27170ea4.chunk.js.map",
+    "index.html": "/why/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/why/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.fabdd5f4.chunk.css.map": "/why/static/css/main.fabdd5f4.chunk.css.map",
+    "static/js/2.a2cf47eb.chunk.js.LICENSE.txt": "/why/static/js/2.a2cf47eb.chunk.js.LICENSE.txt",
+    "static/media/wehelpyou-logo.1bf829d3.png": "/why/static/media/wehelpyou-logo.1bf829d3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ecc7bc2.js",
+    "static/js/runtime-main.b9958606.js",
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.a2cf47eb.chunk.js",
     "static/css/main.fabdd5f4.chunk.css",
-    "static/js/main.3a8fa194.chunk.js"
+    "static/js/main.1213d8c6.chunk.js"
   ]
 }
