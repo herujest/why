@@ -1,45 +1,45 @@
-import React, { Component } from "react";
-import AnchorLink from "react-anchor-link-smooth-scroll";
+import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
+import { useHistory } from "react-router-dom";
 
-export default class AppNavbar extends Component {
-  constructor() {
-    super();
-    this.state = {
-      menu: [
-        { path: "home", title: "Home" },
-        { path: "getting-started", title: "Get Started" },
-        { path: "components", title: "Components" },
-      ]
-    };
-  }
+const AppNavbar = () =>  {
+  const history = useHistory()
+  const menu = [
+    { path: "home", title: "Home" },
+    { path: "getting-started", title: "Get Started" },
+    { path: "components", title: "Components" },
+  ];
 
-  render() {
-    return (
-      <Navbar variant="dark" expand="lg" fixed="top" className="main-navbar">
-        <Container>
-          <Navbar.Brand href="#home">
-            Wehelpyou
-          </Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse
-            id="basic-navbar-nav"
-            className="justify-content-end"
-          >
-            <Nav>
-              {this.state.menu.map((i, index) => {
-                return (
-                  <Nav.Item key={index}>
-                    <AnchorLink className="nav-link" href={`#${i.path}`}>
-                      {i.title}
-                    </AnchorLink>
-                  </Nav.Item>
-                );
-              })}
-            </Nav>
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
-    );
-  }
+  return (
+    <Navbar variant="dark" expand="lg" fixed="top" className="main-navbar">
+      <Container>
+        <Navbar.Brand href="#home">
+          Wehelpyou
+        </Navbar.Brand>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse
+          id="basic-navbar-nav"
+          className="justify-content-start"
+        >
+          <Nav onSelect={(item) => { 
+            console.log("item", item);
+           }}>
+            {menu.map((i, index) => {
+              return (
+                <Nav.Item key={index}>
+                  {/* <AnchorLink className="nav-link" href={`${i.path}`}>
+                    {i.title}
+                  </AnchorLink> */}
+                  {/* <Link className="nav-link" to={`${i.path}`}> {i.title} </Link> */}
+                  <Nav.Link >{i.title}</Nav.Link>
+                </Nav.Item>
+              );
+            })}
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
+  );
 }
+
+export default AppNavbar;
