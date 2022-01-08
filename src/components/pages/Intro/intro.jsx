@@ -1,14 +1,16 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect } from 'react';
-import { Link, useHistory } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import logo from "../../../assets/icons/wehelpyou-logo.png";
 
 
 const Intro = () => {
-  const history = useHistory();
+  const navigate = useNavigate();
+  
   useEffect(() => {
     setTimeout(() => {
-       history.push("/home");
+      console.log("called");
+       navigate("/home", {replace: true});
     }, 2000);
   }, []);
 

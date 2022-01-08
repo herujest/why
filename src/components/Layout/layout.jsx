@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useScrollPosition } from "@n8tb1t/use-scroll-position";
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import AppNavbar from "../../components/shared/navbar/navbar";
 
@@ -17,6 +17,10 @@ const Layout = props => {
     false,
     300
   );
+
+  useEffect(() => {
+    console.log("props", props);
+  }, [])
 
   return useMemo(
     () => (

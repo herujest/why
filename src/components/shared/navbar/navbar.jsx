@@ -1,9 +1,7 @@
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
-import { useHistory } from "react-router-dom";
 
 const AppNavbar = () =>  {
-  const history = useHistory()
   const menu = [
     { path: "home", title: "Home" },
     { path: "getting-started", title: "Get Started" },
